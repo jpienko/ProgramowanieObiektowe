@@ -1,0 +1,11 @@
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\bin\Debug\netcoreapp3.1\ConsoleObjectApp.exe
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\bin\Debug\netcoreapp3.1\ConsoleObjectApp.deps.json
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\bin\Debug\netcoreapp3.1\ConsoleObjectApp.runtimeconfig.json
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\bin\Debug\netcoreapp3.1\ConsoleObjectApp.runtimeconfig.dev.json
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\bin\Debug\netcoreapp3.1\ConsoleObjectApp.dll
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\bin\Debug\netcoreapp3.1\ConsoleObjectApp.pdb
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\obj\Debug\netcoreapp3.1\ConsoleObjectApp.csprojAssemblyReference.cache
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\obj\Debug\netcoreapp3.1\ConsoleObjectApp.AssemblyInfoInputs.cache
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\obj\Debug\netcoreapp3.1\ConsoleObjectApp.AssemblyInfo.cs
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\obj\Debug\netcoreapp3.1\ConsoleObjectApp.dll
+C:\Users\jpien\source\repos\ConsoleObjectApp\ConsoleObjectApp\obj\Debug\netcoreapp3.1\ConsoleObjectApp.pdb
